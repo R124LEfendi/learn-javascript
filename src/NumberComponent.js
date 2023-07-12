@@ -4,6 +4,11 @@ function NumberComponent() {
       {100}
       <br />
       {0b100100}
+      <br />
+      {"rizal efendi"}
+      <br />
+      {"nama : " + "Rizal Efendi"}
+      <br />
     </div>
   );
 }
